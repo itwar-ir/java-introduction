@@ -1,9 +1,10 @@
 
 ## Welcome to Java Introduction Course  Pages
-
-You can use the [editor on GitHub](https://github.com/itwar-ir/java-introduction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course is designed to familiarize you with the Java programming language. This site provides all the requirements for course training including :
+-slides
+-source codes 
+-required resources
+The different sections of each chapter describe the requirements for code execution.
 
 ### Markdown
 
