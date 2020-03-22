@@ -47,8 +47,41 @@ I shall refer to the JDK installed directory as <JAVA_HOME>, hereafter, in this 
  - type cmd in run windows
 ```markdown
     
-```markdown
-Syntax highlighted code block
+```in console type
+java -version 
+java version "1.8.0_241"
+Java(TM) SE Runtime Environment (build 1.8.[x])
+Java HotSpot(TM) 64-Bit Server VM (build [Y], mixed mode)
+```
+4. Write a Hello-World Java Program
+Create a directory to keep your works, e.g., "d:\myProject" or "c:\myProject". 
+Launch a programming text editor (such as TextPad, NotePad++, Sublime Text, Atom). Begin with a new file and enter the following source code. Save the file as "Hello.java", under your work directory (e.g., d:\myProject). 
+```type in Hello.java file
+/*
+ * First Java program to say Hello
+ */
+public class Hello {   // Save as "Hello.java" under "d:\myProject"
+   public static void main(String[] args) {
+      System.out.println("Hello, world!");
+   }
+}
+```
+5. Compile and Run the Hello-World Java Program
+To compile the source code "Hello.java":
+
+   - Use Windows Key + R 
+   - type cmd in run windows
+ ```in console type
+ cd d:
+ d:
+ cd myProject
+ javac Hello.java
+ java Hello
+ ```
+ 
+ Set the Current Drive to the drive where you saved your source file "Hello.java".
+    If you use drive "c", skip this step.
+    Else if you use drive "d", enter "d:" as follow: 
 
 # Header 1
 ## Header 2
