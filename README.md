@@ -45,7 +45,6 @@ I shall refer to the JDK installed directory as <JAVA_HOME>, hereafter, in this 
  Launch a CMD via one of the following mean
  - Use Windows Key + R 
  - type cmd in run windows
-```markdown
     
 ```in console type
 java -version 
@@ -75,13 +74,30 @@ To compile the source code "Hello.java":
  cd d:
  d:
  cd myProject
+ ````
+ Invoke the JDK compiler "javac" to compile the source code "Hello.java". 
+ ```` compile Hello.java
  javac Hello.java
+ // If error message appears, correct your source code and re-compile
+ ```
+ The compilation is successful if the command prompt returns. Otherwise, error messages would be shown. Correct the errors in your source file and re-compile. Check "Common JDK Installation Errors", if you encounter problem compiling your program.
+The output of the compilation is a Java class called "Hello.class". Issue a dir (List Directory) command again to check for the output. 
+ To run the program, invoke the Java Runtime "java"
+ ```Dir out put
+ dir
+ ......
+xx-xxx-xx  xx:xx PM               416 Hello.class
+xx-xxx-xx  xx:xx PM               277 Hello.java
+......
+ ```
+To run the program, invoke the Java Runtime "java":
+ ```run Hello
  java Hello
+ Hello, world!
  ```
  
- Set the Current Drive to the drive where you saved your source file "Hello.java".
-    If you use drive "c", skip this step.
-    Else if you use drive "d", enter "d:" as follow: 
+ 
+
 
 # Header 1
 ## Header 2
