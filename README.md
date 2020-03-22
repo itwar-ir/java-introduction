@@ -1,9 +1,9 @@
 
 ## Welcome to Java Introduction Course  Pages
 This course is designed to familiarize you with the Java programming language. This site provides all the requirements for course training including :
--slides
--source codes 
--required resources
+ - slides
+ - source codes 
+ - required resources
 The different sections of each chapter describe the requirements for code execution.
 
 ### Markdown
