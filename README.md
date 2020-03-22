@@ -26,7 +26,7 @@ If you have previously installed older version(s) of JDK/JRE, un-install ALL of 
 
  1. Download JDK
 
-    Goto Java SE download site @ http://www.oracle.com/technetwork/java/javase/downloads/index.html.
+    Goto [Java SE download](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
     Under "Java Platform, Standard Edition" ⇒ "Java SE 8.0.{x}", where {x} denotes a fast running security-update number ⇒ Click the "Oracle JDK Download" button.
     Under "Java SE Development Kit 8.0.{x}" ⇒ Check "Accept License Agreement".
     Choose the JDK for your operating system, i.e., "Windows". Download the "exe" installer (e.g., "jdk-8.0.{x}_windows-x64_bin.exe").
@@ -98,30 +98,9 @@ To run the program, invoke the Java Runtime "java":
  ### for more information [installation-jdk-microsoft-windows](https://docs.oracle.com/en/java/javase/13/install/installation-jdk-microsoft-windows-platforms.html#GUID-371F38CC-248F-49EC-BB9C-C37FC89E52A0).
  
  ## How To Install Netbeans on Windows
+Goto [NetBeans11.1 IDE download](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/11.1/Apache-NetBeans-11.1-bin-windows-x64.exe) .
+After donload finished install netbeans11 if have a paroblem [Watch install NetBeans IDE](https://youtu.be/yX-qG2Ooqzk)
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itwar-ir/java-introduction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
