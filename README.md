@@ -1,14 +1,18 @@
 
 ## Welcome to Java Introduction Course  Pages
+
 This course is designed to familiarize you with the Java programming language. This site provides all the requirements for course training including :
  - slides
  - source codes 
  - required resources
 The different sections of each chapter describe the requirements for code execution.
 
-### Markdown
+### Requirment
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The hardware and software requirements to learn this course include:
+ - A computer with any kind of operating system
+ - Install GDC to fit the operating system
+ - Installing an IDE like Netbeans.
 
 ```markdown
 Syntax highlighted code block
