@@ -41,6 +41,12 @@ Use your "File Explorer", navigate to "C:\Program Files\Java" to inspect the sub
 
 I shall refer to the JDK installed directory as <JAVA_HOME>, hereafter, in this article.
 
+3. Verify the JDK Installation
+ Launch a CMD via one of the following mean
+ - Use Windows Key + R 
+ - type cmd in run windows
+```markdown
+    
 ```markdown
 Syntax highlighted code block
 
